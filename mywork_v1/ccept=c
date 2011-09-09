@@ -1,0 +1,9 @@
+--2011-06-20 20:02:43--  http://tcpechoclient.c/
+Resolving tcpechoclient.c... failed: Name or service not known.
+wget: unable to resolve host address `tcpechoclient.c'
+--2011-06-20 20:03:04--  http://cs.baylor.edu/~donahoo/practical/CSockets/code/
+Resolving cs.baylor.edu... 129.62.148.10
+Connecting to cs.baylor.edu|129.62.148.10|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2011-06-20 20:03:05 ERROR 403: Forbidden.
+
